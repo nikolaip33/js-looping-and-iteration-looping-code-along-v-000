@@ -5,7 +5,7 @@ function printBadges(names) {
   return names;
 }
 
-function tailesNeverFails(){
+function tailsNeverFails(){
   while (Math.random() >= .50) {
 
   }
