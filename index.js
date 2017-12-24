@@ -1,5 +1,5 @@
 function printBadges(names){
-  for(let i = 0; i < names.lenght; i++){
+  for(let i = 1; i <= names.lenght; i++){
     console.log(``);
   }
 }
