@@ -5,6 +5,6 @@ function printBadges(names) {
   return names;
 }
 
-function tailesNeverFailes(){
-  
+function tailesNeverFails(){
+
 }
